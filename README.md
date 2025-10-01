@@ -1,6 +1,14 @@
 # frontend-takehome-exercise
 Take-home exercise for Frontend Position, ReactNative
 
+1. Fork this repo
+2. Complete the exercise mentioned below
+3. Create a recording (image/video) of the result
+3. Send the link to [email] when completed
+
+> [!NOTE]
+> Please create a short video recording of the screen, and include it in the repo before sharing the repo with us.
+
 ## Task 1: Build a Reusable Avatar Component
 
 Create a reusable Avatar component with the following requirements:
@@ -13,8 +21,10 @@ Create a reusable Avatar component with the following requirements:
 
 ## Task 2: Recreate Screen in React Native
 
-Recreate the screen shown below in React Native. Use the Avatar component from Task 1.
+Recreate the screen shown below in React Native. Use the Avatar component from Task 1. 
+
+Use the Avatar component wherever appropriate.
 
 ![Screen Design](screen-image.png)
 
-*Note: Screen image will be provided*
+
