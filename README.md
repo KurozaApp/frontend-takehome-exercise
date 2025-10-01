@@ -1,7 +1,7 @@
 # frontend-takehome-exercise
 Take-home exercise for Frontend Position, ReactNative
 
-1. Fork this repo
+1. Create a branch on this repo
 2. Complete the exercise mentioned below
 3. Create a recording (image/video) of the result
 4. Send the link [jain@granth.one](mailto:jain@granth.one) when completed
