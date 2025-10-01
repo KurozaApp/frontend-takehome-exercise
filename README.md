@@ -4,7 +4,7 @@ Take-home exercise for Frontend Position, ReactNative
 1. Fork this repo
 2. Complete the exercise mentioned below
 3. Create a recording (image/video) of the result
-3. Send the link to [email] when completed
+4. Send the link [jain@granth.one](mailto:jain@granth.one) when completed
 
 > [!NOTE]
 > Please create a short video recording of the screen, and include it in the repo before sharing the repo with us.
